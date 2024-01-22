@@ -1,0 +1,26 @@
+.input-text {
+  @apply h-12  border-2 border-[#002f34] rounded p-3;
+}
+
+.search-bar {
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+  border-right: none;
+}
+
+.search-button {
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+  padding-left: 7px !important;
+}
+
+.nav-text {
+  letter-spacing: 0cap;
+  @apply font-semibold;
+}
+
+.sell-button {
+  border: solid 5px;
+  border-color: rgb(0, 217, 255) rgb(255, 204, 0) rgb(3, 142, 255);
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+}

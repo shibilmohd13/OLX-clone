@@ -1,0 +1,3 @@
+.input-text {
+  @apply h-12  border-2 border-[#002f34] rounded p-3;
+}

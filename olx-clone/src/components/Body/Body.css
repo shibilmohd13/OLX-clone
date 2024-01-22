@@ -1,0 +1,11 @@
+.nav-lite {
+  font-size: small;
+}
+
+.nav-lite:hover {
+  color: rgb(0, 176, 161);
+}
+
+.cards {
+  @apply h-64 border rounded;
+}
